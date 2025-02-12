@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Chatty Application",
+    "desc": "Real time chat with others including high performance and new features(audio call,video call,authenticate using email,meet clone)",
+    "image": "chatty",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/sithum-perera_webdevelopment-mernstack-chatapplication-activity-7288792687426576384-EOm0?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Sithum-Perera/chatty"
+    }
+  },
+  {
+    "name": "Authentication system",
+    "desc": "Authenticate users using effecient manner and data store in DB ",
+    "image": "auth",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/sithum-perera",
+      "code": "https://github.com/Sithum-Perera/MERN_Auth"
+    }
+  },
+  {
+    "name": "WhatsApp clone",
+    "desc": "Implement all features of the WhatsApp and do own features on it(AI Powered)",
+    "image": "whatsapp",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/sithum-perera",
+      "code": "https://github.com/Sithum-Perera/whatsapp-clone"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "using MERN design calculator.",
+    "image": "cal",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/posts/sithum-perera_firstabrproject-activity-7272296052513234945-5XQO?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Sithum-Perera/Mern-Calculator"
+    }
+  },
+  {
+    "name": "Hangman game",
+    "desc": "Using javascript HTML CSS to complete this project",
+    "image": "hangman",
+    "category": "basicweb",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Spider Anim",
+    "desc": "Spider animation effect shows using HTML CSS JS",
+    "image": "spider",
+    "category": "basicweb",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/Sithum-Perera/spider"
+    }
+  },
+  {
+    "name": "GIT BOT",
+    "desc": "Changing Github contributions bar",
+    "image": "git",
+    "category": "basicweb",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/Sithum-Perera/GitHub-Bot"
+    }
+  }
+]
